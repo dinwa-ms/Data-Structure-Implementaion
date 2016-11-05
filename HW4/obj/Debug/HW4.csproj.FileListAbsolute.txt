@@ -1,0 +1,9 @@
+c:\users\yliu\documents\visual studio 2015\Projects\HW4\HW4\bin\Debug\HW4.exe.config
+C:\Users\yliu\documents\visual studio 2015\Projects\HW4\HW4\bin\Debug\HW4.exe
+C:\Users\yliu\documents\visual studio 2015\Projects\HW4\HW4\bin\Debug\HW4.pdb
+C:\Users\yliu\documents\visual studio 2015\Projects\HW4\HW4\obj\Debug\HW4.csprojResolveAssemblyReference.cache
+C:\Users\yliu\documents\visual studio 2015\Projects\HW4\HW4\obj\Debug\HW4.Form1.resources
+C:\Users\yliu\documents\visual studio 2015\Projects\HW4\HW4\obj\Debug\HW4.Properties.Resources.resources
+C:\Users\yliu\documents\visual studio 2015\Projects\HW4\HW4\obj\Debug\HW4.csproj.GenerateResource.Cache
+C:\Users\yliu\documents\visual studio 2015\Projects\HW4\HW4\obj\Debug\HW4.exe
+C:\Users\yliu\documents\visual studio 2015\Projects\HW4\HW4\obj\Debug\HW4.pdb
